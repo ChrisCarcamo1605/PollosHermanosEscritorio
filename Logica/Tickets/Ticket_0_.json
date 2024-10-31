@@ -1,0 +1,10 @@
+{
+  "PedidoID": 0,
+  "NumeroMesa": 0,
+  "Cliente": null,
+  "Items": [],
+  "TotalAPagar": 0.0,
+  "MetodoDePago": null,
+  "Mesero": null,
+  "FechaHora": "0001-01-01T00:00:00"
+}

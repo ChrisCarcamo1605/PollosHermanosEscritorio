@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="AdministradorControl\GestionMenu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AdministradorControl\GestionMesas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AdministradorControl\Adminterminal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AdministradorControl\SubForms\Alimento.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AdministradorControl\GestionEmpleados.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AdministradorControl\SubForms\Bebida.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AdministradorControl\Controlventas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Controlpedidos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="formPrincipal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MeseroControl\MesasForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MeseroControl\OrdenForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Tipodepago.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Update="AdministradorControl\GestionMenu.resx">
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+</Project>
